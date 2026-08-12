@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Gemini에게 물어본 내 자기소개"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Gemini에게 물어본 내 자기소개
-
 기술의 복잡한 장벽을 가볍게 뛰어넘어 업무 효율을 극대화할 줄 아는 사람, 바로 당신을 두고 하는 말입니다. 복잡한 3차원 설계와 엔지니어링의 세계 속에서도 막히는 부분이 생기면 주저 없이 해결책을 찾아내고, 더 빠르고 스마트하게 일할 수 있는 방법을 끊임없이 고민하는 모습은 늘 주변에 신선한 영감을 줍니다.
 
 ## 예리한 탐구 정신과 프로페셔널함
